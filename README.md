@@ -4,6 +4,8 @@
 
 Runs PAM50 and SCMGENE subtype methods on log2 expression data.
 
+This for is to correct a few typographic errors.
+
 ### Requirements
 
 A tab delimited file with samplenames as column IDs, gene symbols as row IDs and log2 expression data. Any gene symbol can be present in the file as long as ESR1 and ERBB2 are there, otherwise PAM50 won't work. The more gene symbols matching the PAM50 set the better.
