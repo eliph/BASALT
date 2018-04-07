@@ -4,7 +4,7 @@
 
 Runs PAM50 and SCMGENE subtype methods on log2 expression data.
 
-This for is to correct a few typographic errors.
+This fork is to correct a few typographic errors.
 
 ### Requirements
 
